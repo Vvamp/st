@@ -6,6 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Knack Nerd Font:size=11:antialias=true:autohint=true";
+static char *font2 = "Twemoji:size=11:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
